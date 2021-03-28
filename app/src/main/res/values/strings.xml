@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name1">Prheidator Application</string>
+    <string name="app_name2">Bot communication</string>
+    <string name="main_Title">Prheidator Team</string>
+    <string name="Y">Indice Y</string>
+    <string name="main_Info">Clique sur le bouton pour ouvrir une communication avec le bot </string>
+    <string name="main_button">Connexion</string>
+    <string name="getActivity_Title">Connecté avec ID =</string>
+    <string name="getActivity_SubTitle">Rentrez le mot de passe à envoyer au bot </string>
+    <string name="send_button">Envoyer le mot de passe</string>
+    <string name="response">Réponse du bot</string>
+    <string name="X">Indice X</string>
+    <string name="Mode">Dark mode</string>
+</resources>
